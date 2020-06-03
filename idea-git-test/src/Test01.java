@@ -10,4 +10,11 @@ public class Test01 {
         System.out.println("测试......");
         System.out.println("修改......");
     }
+
+    /**
+     * 张三的修改
+     */
+    public void zs(){
+        System.out.println("张三111111111111111");
+    }
 }
